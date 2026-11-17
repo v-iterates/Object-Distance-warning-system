@@ -8,7 +8,7 @@ Developed as a second-semester exploration of computer vision, this project inve
 
 ---
 
-## ✨ Overview
+## Overview
 
 ObjTrack Drone Vision is a webcam-based visual detection prototype that identifies two coloured reference objects — red and blue — and calculates the pixel distance between their centres.
 
