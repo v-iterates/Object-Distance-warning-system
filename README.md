@@ -4,7 +4,7 @@ An exploratory Computer Vision project built using **Python, OpenCV and NumPy**,
 
 Developed as a second-semester exploration of computer vision, this project investigates how a camera can identify coloured objects, track their positions, and estimate their relative distance using image processing techniques.
 
-> **Project Status:** Working Prototype · Exploratory Development
+> **Project Status:** Working Prototype · Exploratory Development · First Version
 
 ---
 
