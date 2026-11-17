@@ -234,7 +234,7 @@ python main.py
 
 ## Current Limitations
 
-This project is an exploratory prototype and has several limitations:
+This project is a version 1.0 exploratory prototype and has several limitations:
 
 - Detection is restricted to predefined red and blue colour ranges.
 - Performance depends on lighting conditions and camera quality.
